@@ -6,17 +6,18 @@ import popup from './Component/popup';
 import footer from './Component/footer';
 import header from './Component/header';
 import main from './Component/main';
-import HomePage from './Homepage.component';
+import HomePage from './pages/homepage/Homepage.component';
 
 
 function App() {
   return (
     <div className="App">
-      <HomePage/>
+      
 
-          {/* <navigation></navigation>
+          <navigation></navigation>
           <Navbar></Navbar>
-          <header></header> */}
+          <HomePage/>
+          {/* <header></header> */}
           {/* <main></main> */}
           {/* <footer></footer>
           <popup></popup> */}
