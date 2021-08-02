@@ -1,4 +1,4 @@
-const sectionstories = () => {
+const Sectionstories = () => {
     return ( 
         <section class="section-stories">
                 <div class="bg-video">
@@ -50,10 +50,10 @@ const sectionstories = () => {
                 </div>
 
                 <div class="u-center-text u-margin-top-huge">
-                    <a href="#" class="btn-text">Read all stories &rarr;</a>
+                    <a  href="/#" class="btn-text">Read all stories &rarr;</a>
                 </div>
             </section>
      );
 }
  
-export default sectionstories;
+export default Sectionstories;

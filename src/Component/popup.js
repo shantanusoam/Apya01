@@ -1,4 +1,4 @@
-const popup = () => {
+const Popup = () => {
     return ( 
         <div class="popup" id="popup">
             <div class="popup__content">
@@ -21,11 +21,11 @@ const popup = () => {
                         vitae tortor condimentum lacinia quis vel eros donec. Sit amet facilisis magna etiam. Imperdiet sed
                         euismod nisi porta.
                     </p>
-                    <a href="#" class="btn btn--green">Book now</a>
+                    <a  href="/#" class="btn btn--green">Book now</a>
                 </div>
             </div>
         </div>
      );
 }
  
-export default popup;
+export default Popup;

@@ -20,7 +20,7 @@ const sectionAbout = () => {
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nulla deserunt voluptatum nam.
                         </p>
 
-                        <a href="#" class="btn-text">Learn more &rarr;</a>
+                        <a  href="/#" class="btn-text">Learn more &rarr;</a>
                     </div>
                     <div class="col-1-of-2">
                         <div class="composition">

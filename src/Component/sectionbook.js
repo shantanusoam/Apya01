@@ -1,4 +1,4 @@
-const sectionbooks = () => {
+const Sectionbooks = () => {
     return ( 
         <section class="section-book">
                 <div class="row">
@@ -50,4 +50,4 @@ const sectionbooks = () => {
      );
 }
  
-export default sectionbooks;
+export default Sectionbooks;

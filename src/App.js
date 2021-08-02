@@ -1,11 +1,11 @@
 
 import './App.css';
 import Navbar from './Component/Navbar';
-import navigation from './Component/navigation';
-import popup from './Component/popup';
-import footer from './Component/footer';
-import header from './Component/header';
-import main from './Component/main';
+import Navigation from './Component/Navigation';
+import Popup from './Component/Popup';
+import Footer from './Component/Footer';
+import Header from './Component/Header';
+import Main from './Component/Main';
 import HomePage from './pages/homepage/Homepage.component';
 
 
@@ -14,13 +14,14 @@ function App() {
     <div className="App">
       
 
-          <navigation></navigation>
-          <Navbar></Navbar>
+          <Navigation/>
+          <Navbar></Navbar> 
+          <Header/>
           <HomePage/>
-          {/* <header></header> */}
-          {/* <main></main> */}
-          {/* <footer></footer>
-          <popup></popup> */}
+          
+          <Main/>
+          <Footer/>
+          <Popup></Popup>
     </div>  
     
     

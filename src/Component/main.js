@@ -1,19 +1,19 @@
-import sectionAbout from "./Sectionabout";
-import sectionbooks from "./sectionbook";
+import SectionAbout from "./Sectionabout";
+import Sectionbooks from "./Sectionbook";
 import Sectionfeature from "./Sectionfeature";
-import sectionstories from "./sectionstories";
+import Sectionstories from "./Sectionstories";
 import SectionTours from "./SectionTours";
 
-const main = () => {
+const Main = () => {
     return ( 
          <main>
-             <sectionAbout></sectionAbout>
+             <SectionAbout></SectionAbout>
              <Sectionfeature></Sectionfeature>
              <SectionTours></SectionTours>
-             <sectionstories></sectionstories>
-             <sectionbooks></sectionbooks>
+             <Sectionstories></Sectionstories>
+             <Sectionbooks></Sectionbooks>
          </main>
      );
 }
  
-export default main;
+export default Main;
