@@ -1,28 +1,35 @@
 
 import './App.css';
-import Navbar from './Component/Navbar';
-import Navigation from './Component/Navigation';
-import Popup from './Component/Popup';
-import Footer from './Component/Footer';
-import Header from './Component/Header';
-import Main from './Component/Main';
+import {Switch,Route} from 'react-router-dom';
+
+
+
 import HomePage from './pages/homepage/Homepage.component';
 
 
+const HatsPage = () => (
+  <div>
+    <h1>Hats</h1>
+  </div>
+)
+
 function App() {
   return (
-    <div className="App">
+    <div>
+<Switch>
+
+      
+<Route exact path="/" component={HomePage}/>
+<Route  path="/hats" component={HatsPage}/>
+   
+      
       
 
-          <Navigation/>
-          <Navbar></Navbar> 
-          <Header/>
-          <HomePage/>
-          
-          <Main/>
-          <Footer/>
-          <Popup></Popup>
-    </div>  
+
+</Switch>
+
+    </div>
+      
     
     
 
