@@ -5,6 +5,7 @@ import './header.style.scss'
 import { ReactComponent as Logo } from "../assets/4.1 crown.svg";
 
 const Header = ({currentUser}) =>  ( 
+    
 /* <div className="header">
 <Link to="/" className="logo-container">
 <Logo className="logo"/>
@@ -31,7 +32,8 @@ const Header = ({currentUser}) =>  (
             </li>
             <li class="Push"><Link to="/shop">sell</Link></li>
             <li class="Push"><Link to="/shop">{
-                currentUser ? <div onClick={() => auth.signOut()}>SIGN OUT</div> : <Link to="/signin">SIGN OUT</Link>
+                
+                currentUser ? <div onClick={() => auth.signOut()}>SIGN OUT</div> : <Link to="/signin">SIGN IN</Link>
             }</Link></li>
         </ul>
                 
