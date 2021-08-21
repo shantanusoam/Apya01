@@ -1,4 +1,4 @@
-const Sectionfeature = () => {
+const SectionFeatures = () => {
     return ( 
         <section class="section-features">
                 
@@ -47,4 +47,4 @@ const Sectionfeature = () => {
      );
 }
  
-export default Sectionfeature;
+export default SectionFeatures;
