@@ -11,7 +11,7 @@ import { auth , createUserProfileDocuent } from './firebase/firebase.util'
 import { setCurrentUser } from './redux/user/user.action' 
 import { selectCurrentUser } from "./redux/user/user.selector";
 import CheckoutPage from "./pages/checkout/checkout.component";
-
+import 'swiper/swiper-bundle.css';
 class App extends React.Component {
   unsubscribeFromAuth = null
  
