@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clean-clothing/static/css/main.689fb835.chunk.css",
-    "main.js": "/clean-clothing/static/js/main.492cc016.chunk.js",
-    "main.js.map": "/clean-clothing/static/js/main.492cc016.chunk.js.map",
+    "main.js": "/clean-clothing/static/js/main.aaa4a65f.chunk.js",
+    "main.js.map": "/clean-clothing/static/js/main.aaa4a65f.chunk.js.map",
     "runtime-main.js": "/clean-clothing/static/js/runtime-main.f9c61d01.js",
     "runtime-main.js.map": "/clean-clothing/static/js/runtime-main.f9c61d01.js.map",
     "static/css/2.a652c889.chunk.css": "/clean-clothing/static/css/2.a652c889.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.a652c889.chunk.css",
     "static/js/2.bc92a47d.chunk.js",
     "static/css/main.689fb835.chunk.css",
-    "static/js/main.492cc016.chunk.js"
+    "static/js/main.aaa4a65f.chunk.js"
   ]
 }
