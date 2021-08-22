@@ -13,9 +13,10 @@ const HomePage = () => (
       <Navigation/>
       {/* <Navbar></Navbar>  */}
       <Header/>
-      <Directory/>
+      
       
       <Main/>
+      <Directory/>
       <Footer/>
       <Popup></Popup>
         
