@@ -3,7 +3,7 @@ const SectionTours = () =>{
         <section class="section-tours" id="section-tours">
                     <div class="u-center-text u-margin-bottom-big">
                         <h2 class="heading-secondary">
-                            Most popular tours
+                            Most Recent
                         </h2>
                     </div>
     
