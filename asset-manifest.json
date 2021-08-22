@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/clean-clothing/static/css/main.7d33325f.chunk.css",
-    "main.js": "/clean-clothing/static/js/main.3cdb9d01.chunk.js",
-    "main.js.map": "/clean-clothing/static/js/main.3cdb9d01.chunk.js.map",
-    "runtime-main.js": "/clean-clothing/static/js/runtime-main.f9c61d01.js",
-    "runtime-main.js.map": "/clean-clothing/static/js/runtime-main.f9c61d01.js.map",
-    "static/css/2.a652c889.chunk.css": "/clean-clothing/static/css/2.a652c889.chunk.css",
-    "static/js/2.c77c2a4e.chunk.js": "/clean-clothing/static/js/2.c77c2a4e.chunk.js",
-    "static/js/2.c77c2a4e.chunk.js.map": "/clean-clothing/static/js/2.c77c2a4e.chunk.js.map",
-    "index.html": "/clean-clothing/index.html",
-    "static/css/2.a652c889.chunk.css.map": "/clean-clothing/static/css/2.a652c889.chunk.css.map",
-    "static/css/main.7d33325f.chunk.css.map": "/clean-clothing/static/css/main.7d33325f.chunk.css.map",
-    "static/js/2.c77c2a4e.chunk.js.LICENSE.txt": "/clean-clothing/static/js/2.c77c2a4e.chunk.js.LICENSE.txt",
-    "static/media/11.2 shopping-bag.a688874f.svg": "/clean-clothing/static/media/11.2 shopping-bag.a688874f.svg",
-    "static/media/4.1 crown.207ae289.svg": "/clean-clothing/static/media/4.1 crown.207ae289.svg",
-    "static/media/App.css": "/clean-clothing/static/media/volley.7a2ca93f.png"
+    "main.css": "/static/css/main.c5a53a21.chunk.css",
+    "main.js": "/static/js/main.492cc016.chunk.js",
+    "main.js.map": "/static/js/main.492cc016.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3cc0d043.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3cc0d043.js.map",
+    "static/css/2.a652c889.chunk.css": "/static/css/2.a652c889.chunk.css",
+    "static/js/2.0a788233.chunk.js": "/static/js/2.0a788233.chunk.js",
+    "static/js/2.0a788233.chunk.js.map": "/static/js/2.0a788233.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a652c889.chunk.css.map": "/static/css/2.a652c889.chunk.css.map",
+    "static/css/main.c5a53a21.chunk.css.map": "/static/css/main.c5a53a21.chunk.css.map",
+    "static/js/2.0a788233.chunk.js.LICENSE.txt": "/static/js/2.0a788233.chunk.js.LICENSE.txt",
+    "static/media/11.2 shopping-bag.a688874f.svg": "/static/media/11.2 shopping-bag.a688874f.svg",
+    "static/media/4.1 crown.207ae289.svg": "/static/media/4.1 crown.207ae289.svg",
+    "static/media/App.css": "/static/media/volley.7a2ca93f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9c61d01.js",
+    "static/js/runtime-main.3cc0d043.js",
     "static/css/2.a652c889.chunk.css",
-    "static/js/2.c77c2a4e.chunk.js",
-    "static/css/main.7d33325f.chunk.css",
-    "static/js/main.3cdb9d01.chunk.js"
+    "static/js/2.0a788233.chunk.js",
+    "static/css/main.c5a53a21.chunk.css",
+    "static/js/main.492cc016.chunk.js"
   ]
 }
