@@ -6,7 +6,7 @@ import Main from '../../Component/Main';
 
 import Navigation from '../../Component/Navigation';
 import Popup from '../../Component/Popup';
-import './homepage.style.scss'
+
 const HomePage = () => (
     <div className="homepage">
         
