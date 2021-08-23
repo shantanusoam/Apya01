@@ -28,7 +28,7 @@ const Header = ({currentUser ,hidden}) =>  (
 <nav to="/" class="navbarcontainer">
         <ul class="navbarcontainer_nav">
         
-            <li><Link to="/" >Home</Link></li>
+            <li><Link to="/apya01" >Home</Link></li>
             <li><Link to="/shop">Company</Link></li>
             <li><Link to="/shop">Services</Link></li>
             <li><Link to="/shop">Safety</Link></li>
