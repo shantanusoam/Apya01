@@ -1,7 +1,7 @@
 const Navbar = () => (
     <nav class="navbarcontainer">
         <ul class="navbarcontainer_nav">
-            <li><a href="/#">Home</a></li>
+            <li><a href="/apya01">Home</a></li>
             <li><a href="/#">Company</a></li>
             <li><a href="/#">Services</a></li>
             <li><a href="/#">Safety</a></li>
