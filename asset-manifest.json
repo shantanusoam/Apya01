@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5a53a21.chunk.css",
-    "main.js": "/static/js/main.5925efb0.chunk.js",
-    "main.js.map": "/static/js/main.5925efb0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7bf7ca95.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7bf7ca95.js.map",
-    "static/css/2.a652c889.chunk.css": "/static/css/2.a652c889.chunk.css",
-    "static/js/2.82db4f2a.chunk.js": "/static/js/2.82db4f2a.chunk.js",
-    "static/js/2.82db4f2a.chunk.js.map": "/static/js/2.82db4f2a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a652c889.chunk.css.map": "/static/css/2.a652c889.chunk.css.map",
-    "static/css/main.c5a53a21.chunk.css.map": "/static/css/main.c5a53a21.chunk.css.map",
-    "static/js/2.82db4f2a.chunk.js.LICENSE.txt": "/static/js/2.82db4f2a.chunk.js.LICENSE.txt",
-    "static/media/11.2 shopping-bag.a688874f.svg": "/static/media/11.2 shopping-bag.a688874f.svg",
-    "static/media/4.1 crown.207ae289.svg": "/static/media/4.1 crown.207ae289.svg",
-    "static/media/App.css": "/static/media/volley.7a2ca93f.png"
+    "main.css": "/github-pages-branch-from-error/static/css/main.5637e232.chunk.css",
+    "main.js": "/github-pages-branch-from-error/static/js/main.5925efb0.chunk.js",
+    "main.js.map": "/github-pages-branch-from-error/static/js/main.5925efb0.chunk.js.map",
+    "runtime-main.js": "/github-pages-branch-from-error/static/js/runtime-main.5b60c61a.js",
+    "runtime-main.js.map": "/github-pages-branch-from-error/static/js/runtime-main.5b60c61a.js.map",
+    "static/css/2.a652c889.chunk.css": "/github-pages-branch-from-error/static/css/2.a652c889.chunk.css",
+    "static/js/2.b06678f8.chunk.js": "/github-pages-branch-from-error/static/js/2.b06678f8.chunk.js",
+    "static/js/2.b06678f8.chunk.js.map": "/github-pages-branch-from-error/static/js/2.b06678f8.chunk.js.map",
+    "index.html": "/github-pages-branch-from-error/index.html",
+    "static/css/2.a652c889.chunk.css.map": "/github-pages-branch-from-error/static/css/2.a652c889.chunk.css.map",
+    "static/css/main.5637e232.chunk.css.map": "/github-pages-branch-from-error/static/css/main.5637e232.chunk.css.map",
+    "static/js/2.b06678f8.chunk.js.LICENSE.txt": "/github-pages-branch-from-error/static/js/2.b06678f8.chunk.js.LICENSE.txt",
+    "static/media/11.2 shopping-bag.a688874f.svg": "/github-pages-branch-from-error/static/media/11.2 shopping-bag.a688874f.svg",
+    "static/media/4.1 crown.207ae289.svg": "/github-pages-branch-from-error/static/media/4.1 crown.207ae289.svg",
+    "static/media/App.css": "/github-pages-branch-from-error/static/media/volley.7a2ca93f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bf7ca95.js",
+    "static/js/runtime-main.5b60c61a.js",
     "static/css/2.a652c889.chunk.css",
-    "static/js/2.82db4f2a.chunk.js",
-    "static/css/main.c5a53a21.chunk.css",
+    "static/js/2.b06678f8.chunk.js",
+    "static/css/main.5637e232.chunk.css",
     "static/js/main.5925efb0.chunk.js"
   ]
 }
