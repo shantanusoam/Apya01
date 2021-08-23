@@ -5,13 +5,15 @@ import { createStructuredSelector } from 'reselect';
 import React from "react";
 import HomePage from "./pages/homepage/Homepage.component";
 import ShopPage from "./pages/shop/shop.component";
-import Header from "./Component/header/header.component";
+import HeaderNav from "./Component/header/headerNav.component";
+
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
 import { auth , createUserProfileDocuent } from './firebase/firebase.util'
 import { setCurrentUser } from './redux/user/user.action' 
 import { selectCurrentUser } from "./redux/user/user.selector";
 import CheckoutPage from "./pages/checkout/checkout.component";
 import 'swiper/swiper-bundle.css';
+import { Router } from "react-router";
 class App extends React.Component {
   unsubscribeFromAuth = null
  
@@ -39,9 +41,21 @@ class App extends React.Component {
   }
   
   render() {
+    // let header;
+   
+    // if ((Router.pathname === '/' || Router.pathname === '/checkout')) {
+    //   header =<HeaderNav ishome/>;
+    // } else {
+    //   header = <HeaderNav/>;
+    // }
+
     return (
       <div>
-        <Header/>
+        
+          
+        
+        
+        
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />

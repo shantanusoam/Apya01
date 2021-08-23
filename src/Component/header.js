@@ -8,7 +8,7 @@ const Header = () => {
         <div class="header__text-box">
             <h1 class="heading-primary">
                 <span class="heading-primary--main">Apya</span>
-                <span class="heading-primary--sub">is where life happens</span>
+                <span class="heading-primary--sub">SERVE THE PURPOSE</span>
             </h1>
 
             <a href="#section-tours" class="btn btn--white btn--animated">Discover</a>
