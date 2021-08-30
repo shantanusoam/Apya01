@@ -19,8 +19,7 @@ const Footer = () => {
                 <div class="col-1-of-2">
                     <p class="footer__copyright">
                         Built by <a  href="/#" class="footer__link">Shantanu soam</a> for Apya Industry<a  href="/#" class="footer__link">E commerce portfolio</a>.
-                        Copyright &copy; by Apya. You are not allowed to use this webpage for both personal
-                        and commercial use, but NOT to claim it as your own design.
+                        Copyright &copy; by Apya.<br /> Sector 4, 4/141, Madhav Puram, Meerut-250002, Uttar Pradesh, India
                     </p>
                 </div>
             </div>
