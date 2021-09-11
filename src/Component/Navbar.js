@@ -6,7 +6,7 @@ const Navbar = () => (
             <li><a href="/#">Services</a></li>
             <li><a href="/#">Safety</a></li>
             <li class="logo">
-                <img src="img/APYA.png" alt="Logo" class="header__logo"/>
+                <img src="./img/APYA.png" alt="Logo" class="header__logo"/>
             </li>
             <li class="Push"><a href="/#">sell</a></li>
         </ul>

@@ -2,7 +2,7 @@ const Header = () => {
     return ( 
         <header class="header">
         <div class="header__logo-box">
-            <img src="img/APYA.png" alt="Logo" class="header__logo"/>
+            <img src="./img/APYA.png" alt="Logo" class="header__logo"/>
         </div>
 
         <div class="header__text-box">
