@@ -64,7 +64,7 @@ body {
 body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
-  /*font-size: 16px;*/
+  font-size: 16px;
   line-height: 1.7;
   color: #777; }
 
@@ -967,18 +967,23 @@ h2::after {
   color: #ffc000; }
 
 .navbarcontainer {
-  background-color: #001616; }
+  background-color: white; }
+  .navbarcontainer.ishome {
+    background-color: #001616; }
   .navbarcontainer_nav {
     display: flex;
     list-style: none;
     font-size: 2rem;
     margin: 0; }
+    .navbarcontainer_nav.ishome a {
+      color: #f5f5f6;
+      text-decoration: none; }
     .navbarcontainer_nav .logo {
       margin-left: auto; }
     .navbarcontainer_nav li {
       padding: 20px; }
     .navbarcontainer_nav a {
-      color: #f5f5f6;
+      color: #000000;
       text-decoration: none; }
     .navbarcontainer_nav .Push {
       margin-left: auto; }

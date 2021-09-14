@@ -1,5 +1,5 @@
 .sign-in {
-    width: 30vw;
+    width: 480px;
     margin-bottom: 30px;
     padding: 20px 50px;
     display: flex;
@@ -16,5 +16,9 @@
   span{
       font-size: 1.4rem;
       color: gray;
+  }
+  .buttons{
+    display: flex;
+    justify-content: space-between; 
   }
 }

@@ -18,10 +18,8 @@ const Footer = () => {
                 </div>
                 <div class="col-1-of-2">
                     <p class="footer__copyright">
-                        Built by <a  href="/#" class="footer__link">Jonas Schmedtmann</a> for his online course <a  href="/#" class="footer__link">Advanced CSS and Sass</a>.
-                        Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use this webpage for both personal
-                        and commercial use, but NOT to claim it as your own design. A credit to the original author, Jonas
-                        Schmedtmann, is of course highly appreciated!
+                        Built by <a  href="/#" class="footer__link">Shantanu soam</a> for Apya Industry<a  href="/#" class="footer__link">E commerce portfolio</a>.
+                        Copyright &copy; by Apya.<br /> Sector 4, 4/141, Madhav Puram, Meerut-250002, Uttar Pradesh, India
                     </p>
                 </div>
             </div>

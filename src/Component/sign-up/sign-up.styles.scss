@@ -1,0 +1,21 @@
+.sign-up {
+    display: flex;
+    flex-direction: column;
+     width: 480px;
+    margin-bottom: 30px;
+    padding: 20px 50px;
+   
+  .title{
+      margin: 10px 0;
+  }
+  h1{
+    font-size: 2.5em;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  span{
+      font-size: 1.4rem;
+      color: gray;
+  }
+}

@@ -3,21 +3,20 @@ const sectionAbout = () => {
         <section class="section-about">
                 <div class="u-center-text u-margin-bottom-big">
                     <h2 class="heading-secondary">
-                        Exciting tours for adventurous people
+                        FABRIC THAT LASTS LONGER
                     </h2>
                 </div>
 
                 <div class="row">
                     <div class="col-1-of-2">
-                        <h3 class="heading-tertiary u-margin-bottom-small">You're going to fall in love with nature</h3>
+                        <h3 class="heading-tertiary u-margin-bottom-small">You're going to fall in love with what you wear</h3>
                         <p class="paragraph">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur libero repellat quis consequatur
-                            ducimus quam nisi exercitationem omnis earum qui.
+                        Incepted in the year 2019 at Meerut (Uttar Pradesh, India), we “Apya Industry” are a Sole Proprietorshipfirm engaged in Manufacturer and Wholesale Retailer a top quality range of Mens Sports Tracksuit, Mens Cricket Uniform, Men T Shirts, etc
                         </p>
 
-                        <h3 class="heading-tertiary u-margin-bottom-small">Live adventures like you never have before</h3>
+                        <h3 class="heading-tertiary u-margin-bottom-small">Play adventures like you never have before</h3>
                         <p class="paragraph">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nulla deserunt voluptatum nam.
+                        Under the able guidance of, “Mr. Sumit Singh Shom" (Proprietor), who helps us comprehend client’s exact requirements.
                         </p>
 
                         <a  href="/#" class="btn-text">Learn more &rarr;</a>
