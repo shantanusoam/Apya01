@@ -5,15 +5,18 @@ import { createStructuredSelector } from 'reselect';
 import React from "react";
 import HomePage from "./pages/homepage/Homepage.component";
 import ShopPage from "./pages/shop/shop.component";
-import HeaderNav from "./Component/header/headerNav.component";
+
 
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
-import { auth , createUserProfileDocuent } from './firebase/firebase.util'
+import { auth , createUserProfileDocument, 
+  // addCollectionAndDocuments 
+} from './firebase/firebase.util'
 import { setCurrentUser } from './redux/user/user.action' 
 import { selectCurrentUser } from "./redux/user/user.selector";
 import CheckoutPage from "./pages/checkout/checkout.component";
 import 'swiper/swiper-bundle.css';
-import { Router } from "react-router";
+
+// import { selectCollectionsForPreview } from "./redux/shop/shop.selector";
 class App extends React.Component {
   unsubscribeFromAuth = null
  
@@ -24,7 +27,7 @@ class App extends React.Component {
         this.unsubscribeFromAuth = auth.onAuthStateChanged(async userAuth => {
           
           if (userAuth){
-            const userRef = await createUserProfileDocuent(userAuth);
+            const userRef = await createUserProfileDocument(userAuth);
             userRef.onSnapshot(snapShot => {
               setCurrentUser({
                 id: snapShot.id,
@@ -34,6 +37,7 @@ class App extends React.Component {
           }
     
           setCurrentUser(userAuth);
+          // addCollectionAndDocuments('collections',collectionArray.map(({title,items})=> ({title,items})));
         });
       }
   componentWillUnmount() {
@@ -70,7 +74,9 @@ class App extends React.Component {
  
 }
 const mapStateToProps = createStructuredSelector({
-  currentUser: selectCurrentUser
+  currentUser: selectCurrentUser,
+  // collectionArray: selectCollectionsForPreview,
+
 })
 
 
