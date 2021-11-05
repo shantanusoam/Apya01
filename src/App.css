@@ -686,11 +686,14 @@ body {
         width: 100%;
         text-align: center; } }
   .footer__list {
-    list-style: none; }
+    list-style: none;
+   }
   .footer__item {
-    display: inline-block; }
+    display: inline-block;  padding-left: 10px; }
     .footer__item:not(:last-child) {
       margin-right: 1.5rem; }
+      .footer__item:first-child {
+        padding-left: 0; }
   .footer__link:link, .footer__link:visited {
     color: #f7f7f7;
     background-color: #333;
