@@ -5,7 +5,7 @@ import Sectionstories from "./Sectionstories";
 import SectionFeatures from "./SectionFeatures";
 import SectionTours from "./SectionTours.js";
 import Scroller from "./Scroller";
-import Directory from '../Component/directory/directory.componrnt';
+import Directory from './directory/directory.componrnt';
 const Main = () => {
     return ( 
          <main>
