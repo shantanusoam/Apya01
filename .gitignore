@@ -7,7 +7,7 @@
 /apyanext
 # testing
 /coverage
-
+/apyanext/node_modules
 # production
 /build
 
